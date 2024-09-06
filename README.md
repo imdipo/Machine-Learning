@@ -1,2 +1,2 @@
 # Machine-Learning   
-Berisikan tugas tugas Matkul pembelajaran mesin
+Berisikan tugas tugas Mata kuliah pembelajaran mesin
